@@ -23,7 +23,9 @@
     "parcel": "^2.0.0-rc.0"
   },
   "dependencies": {
+    "core-js": "^3.21.0",
     "npm-sass": "^3.0.0",
+    "regenerator-runtime": "^0.13.9",
     "sass": "^1.26.10"
   }
 }
