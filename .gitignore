@@ -1,4 +1,10 @@
 ### Node template
+.prettierrc
+package.json
+package-lock.json
+.gitignore
+.parcel-cache
+
 # Logs
 logs
 *.log
@@ -137,8 +143,3 @@ tags
 # Persistent undo
 [._]*.un~
 
-.prettierrc
-package.json
-package-lock.json
-.gitignore
-.parcel-cache
