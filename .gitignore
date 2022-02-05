@@ -141,4 +141,4 @@ tags
 package.json
 package-lock.json
 .gitignore
-
+.parcel-cache
